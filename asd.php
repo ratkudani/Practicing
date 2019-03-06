@@ -5,6 +5,6 @@ print $asd;
 
 if($alma != $sajt)
 {
-print "DAMN";	
+print "DAMN SON";	
 }
 ?>
